@@ -26,7 +26,7 @@ The system is built with a decoupled client-server architecture:
 ### 4. Design Decisions
 
 #### LLM Model: Google Gemini (via `gemini-2.5-flash`)
-- **Reasoning**: Gemini 1.5 Flash offers an excellent balance of speed and reasoning capability, crucial for a responsive chatbot. It has a large context window which helps in processing retrieved chunks effectively.
+- **Reasoning**: Gemini 2.5 Flash offers an excellent balance of speed and reasoning capability, crucial for a responsive chatbot. It has a large context window which helps in processing retrieved chunks effectively.
 
 #### Vector Database: LanceDB
 - **Reasoning**: LanceDB is an embedded, serverless vector database that stores data in standard file formats (Lance). It does not require a separate Docker container or cloud instance, making the setup extremely simple and portable for this assignment.
