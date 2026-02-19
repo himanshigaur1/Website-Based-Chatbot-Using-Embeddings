@@ -1,8 +1,3 @@
-## 🎥 Demo Video
-👉 Watch here: https://www.youtube.com/watch?v=L_jA3975MOE
-
-----------------------------------------
-# Humanli.ai - AI/ML Engineer Assignment
 ## Website-Based Chatbot Using Embeddings
 
 ### 1. Overview
